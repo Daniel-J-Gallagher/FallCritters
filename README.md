@@ -6,3 +6,4 @@ Now in the waning hours of October you have decided to search for it, and any ot
 
 Goal: Flip rocks and search for the golden salamander.
 Controls: WASD to move, L or left mouse click to interact with objects, escape to quit.
+Itch Link: https://danielgallagher.itch.io/fall-critters
